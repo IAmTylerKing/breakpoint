@@ -1,0 +1,13 @@
+/* ----------- TABLET ----------- */
+@media (min-width: 768px) {
+  body {
+    background: red;
+  }
+}
+
+/* ----------- DESKTOP----------- */
+@media (min-width: 1200px) {
+  body {
+    background: rgb(39, 1, 255);
+  }
+}
